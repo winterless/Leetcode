@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/winterless/CLionProjects/leetcode_contest/leetcode_test.cpp
+leetcode_test.h
+/home/winterless/CLionProjects/leetcode_contest/leetcode_test.h
+
+/home/winterless/CLionProjects/leetcode_contest/leetcode_test.h
+iostream
+-
+string
+-
+vector
+-
+set
+-
+unordered_map
+-
+algorithm
+-
+
+/home/winterless/CLionProjects/leetcode_contest/main.cpp
+iostream
+-
+leetcode_test.h
+/home/winterless/CLionProjects/leetcode_contest/leetcode_test.h
+

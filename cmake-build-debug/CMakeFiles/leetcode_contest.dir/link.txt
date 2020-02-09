@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/leetcode_contest.dir/main.cpp.o CMakeFiles/leetcode_contest.dir/leetcode_test.cpp.o  -o leetcode_contest 
